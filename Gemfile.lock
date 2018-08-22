@@ -250,7 +250,7 @@ GEM
     kaminari (0.17.0)
       actionpack (>= 3.0.0)
       activesupport (>= 3.0.0)
-    kgio (2.10.0)
+    kgio (2.11.2)
     launchy (2.4.3)
       addressable (~> 2.3)
     letsencrypt-rails-heroku (0.2.7)
